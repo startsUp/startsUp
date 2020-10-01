@@ -6,7 +6,6 @@ I love all things Web Dev, Cloud Computing and DevOps. Keen on learning Distribu
 [![Shardool's github stats](https://github-readme-stats.vercel.app/api?username=startsUp&show_icons=true&theme=radical)](https://github.com/startsUp/github-readme-stats)
 
 ### Find me on
-<br/>
 <a href="https://www.linkedin.com/in/sp97/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
